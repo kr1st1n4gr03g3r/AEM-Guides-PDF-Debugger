@@ -1,0 +1,1477 @@
+{
+  "version": 2,
+  "parameters": {
+    "decodelevel": "generalized"
+  },
+  "pages": [
+    {
+      "contents": [
+        "8 0 R"
+      ],
+      "images": [
+        {
+          "bitspercomponent": 8,
+          "colorspace": "31 0 R",
+          "decodeparms": [
+            null
+          ],
+          "filter": [
+            "/DCTDecode"
+          ],
+          "filterable": false,
+          "height": 1200,
+          "name": "/Im1",
+          "object": "22 0 R",
+          "width": 1200
+        }
+      ],
+      "label": null,
+      "object": "5 0 R",
+      "outlines": [],
+      "pageposfrom1": 1
+    },
+    {
+      "contents": [
+        "10 0 R"
+      ],
+      "images": [],
+      "label": null,
+      "object": "6 0 R",
+      "outlines": [],
+      "pageposfrom1": 2
+    }
+  ],
+  "pagelabels": [],
+  "acroform": {
+    "fields": [],
+    "hasacroform": false,
+    "needappearances": false
+  },
+  "attachments": {},
+  "encrypt": {
+    "capabilities": {
+      "accessibility": true,
+      "extract": true,
+      "modify": true,
+      "modifyannotations": true,
+      "modifyassembly": true,
+      "modifyforms": true,
+      "modifyother": true,
+      "printhigh": true,
+      "printlow": true
+    },
+    "encrypted": false,
+    "ownerpasswordmatched": false,
+    "parameters": {
+      "P": 0,
+      "R": 0,
+      "V": 0,
+      "bits": 0,
+      "filemethod": "none",
+      "key": null,
+      "method": "none",
+      "streammethod": "none",
+      "stringmethod": "none"
+    },
+    "recovereduserpassword": null,
+    "userpasswordmatched": false
+  },
+  "outlines": [],
+  "qpdf": [
+    {
+      "jsonversion": 2,
+      "pdfversion": "1.3",
+      "pushedinheritedpageresources": false,
+      "calledgetallpages": true,
+      "maxobjectid": 122
+    },
+    {
+      "obj:1 0 R": {
+        "value": {
+          "/MarkInfo": {
+            "/Marked": true
+          },
+          "/Pages": "3 0 R",
+          "/StructTreeRoot": "4 0 R",
+          "/Type": "/Catalog",
+          "/Version": "/1.4"
+        }
+      },
+      "obj:2 0 R": {
+        "value": {
+          "/CreationDate": "u:D:20250317181901Z00'00'",
+          "/Creator": "u:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+          "/ModDate": "u:D:20250317181901Z00'00'",
+          "/Producer": "u:macOS Version 14.6.1 (Build 23G93) Quartz PDFContext",
+          "/Title": "u:Walnut Brownies - The Big Man's World ®"
+        }
+      },
+      "obj:3 0 R": {
+        "value": {
+          "/Count": 2,
+          "/Kids": [
+            "5 0 R",
+            "6 0 R"
+          ],
+          "/MediaBox": [
+            0,
+            0,
+            612,
+            792
+          ],
+          "/Type": "/Pages"
+        }
+      },
+      "obj:4 0 R": {
+        "value": {
+          "/K": "7 0 R",
+          "/Type": "/StructTreeRoot"
+        }
+      },
+      "obj:5 0 R": {
+        "value": {
+          "/Contents": "8 0 R",
+          "/MediaBox": [
+            0,
+            0,
+            612,
+            792
+          ],
+          "/Parent": "3 0 R",
+          "/Resources": "9 0 R",
+          "/Rotate": 0,
+          "/Type": "/Page"
+        }
+      },
+      "obj:6 0 R": {
+        "value": {
+          "/Contents": "10 0 R",
+          "/MediaBox": [
+            0,
+            0,
+            612,
+            792
+          ],
+          "/Parent": "3 0 R",
+          "/Resources": "11 0 R",
+          "/Rotate": 0,
+          "/Type": "/Page"
+        }
+      },
+      "obj:7 0 R": {
+        "value": {
+          "/K": [
+            "12 0 R",
+            "13 0 R"
+          ],
+          "/Lang": "u:en-US",
+          "/P": "4 0 R",
+          "/S": "/Document",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:8 0 R": {
+        "stream": {
+          "dict": {
+            "/Filter": "/FlateDecode",
+            "/Length": 568350
+          }
+        }
+      },
+      "obj:9 0 R": {
+        "value": {
+          "/ColorSpace": {
+            "/Cs1": "14 0 R"
+          },
+          "/ExtGState": {
+            "/Gs1": "15 0 R",
+            "/Gs2": "16 0 R",
+            "/Gs3": "17 0 R",
+            "/Gs4": "18 0 R"
+          },
+          "/ProcSet": [
+            "/PDF",
+            "/ImageB",
+            "/ImageC",
+            "/ImageI"
+          ],
+          "/XObject": {
+            "/Fm1": "19 0 R",
+            "/Fm2": "20 0 R",
+            "/Fm3": "21 0 R",
+            "/Im1": "22 0 R"
+          }
+        }
+      },
+      "obj:10 0 R": {
+        "stream": {
+          "dict": {
+            "/Filter": "/FlateDecode",
+            "/Length": 251281
+          }
+        }
+      },
+      "obj:11 0 R": {
+        "value": {
+          "/ColorSpace": {
+            "/Cs1": "14 0 R"
+          },
+          "/ExtGState": {
+            "/Gs4": "18 0 R"
+          },
+          "/Font": {
+            "/TT1": "23 0 R"
+          },
+          "/ProcSet": [
+            "/PDF",
+            "/Text"
+          ]
+        }
+      },
+      "obj:12 0 R": {
+        "value": {
+          "/K": [
+            "24 0 R"
+          ],
+          "/P": "7 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:13 0 R": {
+        "value": {
+          "/K": [
+            "25 0 R"
+          ],
+          "/P": "7 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:14 0 R": {
+        "value": [
+          "/ICCBased",
+          "26 0 R"
+        ]
+      },
+      "obj:15 0 R": {
+        "value": {
+          "/SA": true,
+          "/Type": "/ExtGState"
+        }
+      },
+      "obj:16 0 R": {
+        "value": {
+          "/Type": "/ExtGState",
+          "/ca": 0.7
+        }
+      },
+      "obj:17 0 R": {
+        "value": {
+          "/Type": "/ExtGState",
+          "/ca": 1
+        }
+      },
+      "obj:18 0 R": {
+        "value": {
+          "/Type": "/ExtGState",
+          "/ca": 0.502
+        }
+      },
+      "obj:19 0 R": {
+        "stream": {
+          "dict": {
+            "/BBox": [
+              226.9189,
+              453.3516,
+              493.5591,
+              463.2973
+            ],
+            "/Filter": "/FlateDecode",
+            "/FormType": 1,
+            "/Group": {
+              "/CS": "27 0 R",
+              "/I": true,
+              "/K": false,
+              "/S": "/Transparency"
+            },
+            "/Length": 20994,
+            "/Resources": "28 0 R",
+            "/Subtype": "/Form",
+            "/Type": "/XObject"
+          }
+        }
+      },
+      "obj:20 0 R": {
+        "stream": {
+          "dict": {
+            "/BBox": [
+              200.8682,
+              407.0707,
+              345.7924,
+              415.2973
+            ],
+            "/Filter": "/FlateDecode",
+            "/FormType": 1,
+            "/Group": {
+              "/CS": "27 0 R",
+              "/I": true,
+              "/K": false,
+              "/S": "/Transparency"
+            },
+            "/Length": 11401,
+            "/Resources": "29 0 R",
+            "/Subtype": "/Form",
+            "/Type": "/XObject"
+          }
+        }
+      },
+      "obj:21 0 R": {
+        "stream": {
+          "dict": {
+            "/BBox": [
+              164.6725,
+              356.4961,
+              246.9643,
+              366.4418
+            ],
+            "/Filter": "/FlateDecode",
+            "/FormType": 1,
+            "/Group": {
+              "/CS": "27 0 R",
+              "/I": true,
+              "/K": false,
+              "/S": "/Transparency"
+            },
+            "/Length": 6713,
+            "/Resources": "30 0 R",
+            "/Subtype": "/Form",
+            "/Type": "/XObject"
+          }
+        }
+      },
+      "obj:22 0 R": {
+        "stream": {
+          "dict": {
+            "/BitsPerComponent": 8,
+            "/ColorSpace": "31 0 R",
+            "/Filter": "/DCTDecode",
+            "/Height": 1200,
+            "/Interpolate": true,
+            "/Length": 183459,
+            "/Subtype": "/Image",
+            "/Type": "/XObject",
+            "/Width": 1200
+          }
+        }
+      },
+      "obj:23 0 R": {
+        "value": {
+          "/BaseFont": "/AAAAAB+Helvetica",
+          "/Encoding": "/MacRomanEncoding",
+          "/FirstChar": 32,
+          "/FontDescriptor": "32 0 R",
+          "/LastChar": 121,
+          "/Subtype": "/TrueType",
+          "/Type": "/Font",
+          "/Widths": [
+            278,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            278,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            722,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            556,
+            500,
+            0,
+            556,
+            0,
+            0,
+            0,
+            222,
+            0,
+            0,
+            0,
+            0,
+            556,
+            0,
+            556,
+            0,
+            333,
+            0,
+            278,
+            0,
+            0,
+            722,
+            0,
+            500
+          ]
+        }
+      },
+      "obj:24 0 R": {
+        "value": {
+          "/K": [
+            "33 0 R",
+            "34 0 R",
+            "35 0 R",
+            "36 0 R",
+            "37 0 R",
+            "38 0 R",
+            "39 0 R",
+            "40 0 R",
+            "41 0 R",
+            "42 0 R",
+            "43 0 R",
+            "44 0 R",
+            "45 0 R",
+            "46 0 R",
+            "47 0 R",
+            "48 0 R",
+            "49 0 R",
+            "50 0 R"
+          ],
+          "/P": "12 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:25 0 R": {
+        "value": {
+          "/K": 59,
+          "/P": "13 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:26 0 R": {
+        "stream": {
+          "dict": {
+            "/Alternate": "/DeviceRGB",
+            "/Filter": "/FlateDecode",
+            "/Length": 2612,
+            "/N": 3
+          }
+        }
+      },
+      "obj:27 0 R": {
+        "value": [
+          "/ICCBased",
+          "51 0 R"
+        ]
+      },
+      "obj:28 0 R": {
+        "value": {
+          "/ColorSpace": {
+            "/Cs1": "14 0 R"
+          },
+          "/ProcSet": [
+            "/PDF"
+          ]
+        }
+      },
+      "obj:29 0 R": {
+        "value": {
+          "/ColorSpace": {
+            "/Cs1": "14 0 R"
+          },
+          "/ProcSet": [
+            "/PDF"
+          ]
+        }
+      },
+      "obj:30 0 R": {
+        "value": {
+          "/ColorSpace": {
+            "/Cs1": "14 0 R"
+          },
+          "/ProcSet": [
+            "/PDF"
+          ]
+        }
+      },
+      "obj:31 0 R": {
+        "value": [
+          "/ICCBased",
+          "52 0 R"
+        ]
+      },
+      "obj:32 0 R": {
+        "value": {
+          "/Ascent": 770,
+          "/AvgWidth": 441,
+          "/CapHeight": 717,
+          "/Descent": -230,
+          "/Flags": 32,
+          "/FontBBox": [
+            -951,
+            -481,
+            1445,
+            1122
+          ],
+          "/FontFile2": "53 0 R",
+          "/FontName": "/AAAAAB+Helvetica",
+          "/ItalicAngle": 0,
+          "/MaxWidth": 1500,
+          "/StemH": 85,
+          "/StemV": 98,
+          "/Type": "/FontDescriptor",
+          "/XHeight": 523
+        }
+      },
+      "obj:33 0 R": {
+        "value": {
+          "/K": [
+            "54 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:34 0 R": {
+        "value": {
+          "/K": [
+            "55 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/H2",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:35 0 R": {
+        "value": {
+          "/K": 1,
+          "/P": "24 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:36 0 R": {
+        "value": {
+          "/K": [
+            "56 0 R",
+            "57 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:37 0 R": {
+        "value": {
+          "/K": [
+            "58 0 R",
+            "59 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:38 0 R": {
+        "value": {
+          "/K": [
+            "60 0 R",
+            "61 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:39 0 R": {
+        "value": {
+          "/K": [
+            "62 0 R",
+            "63 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:40 0 R": {
+        "value": {
+          "/K": [
+            "64 0 R",
+            "65 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:41 0 R": {
+        "value": {
+          "/K": [
+            "66 0 R",
+            "67 0 R",
+            "68 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:42 0 R": {
+        "value": {
+          "/K": [
+            "69 0 R",
+            "70 0 R",
+            "71 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:43 0 R": {
+        "value": {
+          "/K": [
+            "72 0 R",
+            "73 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:44 0 R": {
+        "value": {
+          "/K": [
+            "74 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/H3",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:45 0 R": {
+        "value": {
+          "/K": [
+            "75 0 R",
+            "76 0 R",
+            "77 0 R",
+            "78 0 R",
+            "79 0 R",
+            "80 0 R",
+            "81 0 R",
+            "82 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/L",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:46 0 R": {
+        "value": {
+          "/K": [
+            "83 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/H3",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:47 0 R": {
+        "value": {
+          "/K": [
+            "84 0 R",
+            "85 0 R",
+            "86 0 R",
+            "87 0 R",
+            "88 0 R",
+            "89 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/L",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:48 0 R": {
+        "value": {
+          "/K": [
+            "90 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/H3",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:49 0 R": {
+        "value": {
+          "/K": [
+            "91 0 R"
+          ],
+          "/P": "24 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:50 0 R": {
+        "value": {
+          "/K": 24,
+          "/P": "24 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:51 0 R": {
+        "stream": {
+          "dict": {
+            "/Alternate": "/DeviceRGB",
+            "/Filter": "/FlateDecode",
+            "/Length": 1072,
+            "/N": 3
+          }
+        }
+      },
+      "obj:52 0 R": {
+        "stream": {
+          "dict": {
+            "/Alternate": "/DeviceRGB",
+            "/Filter": "/FlateDecode",
+            "/Length": 304,
+            "/N": 3
+          }
+        }
+      },
+      "obj:53 0 R": {
+        "stream": {
+          "dict": {
+            "/Filter": "/FlateDecode",
+            "/Length": 5279,
+            "/Length1": 8824
+          }
+        }
+      },
+      "obj:54 0 R": {
+        "value": {
+          "/Alt": "u:walnut brownies recipe.",
+          "/K": 58,
+          "/P": "33 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/Figure",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:55 0 R": {
+        "value": {
+          "/K": 0,
+          "/P": "34 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:56 0 R": {
+        "value": {
+          "/K": 2,
+          "/P": "36 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:57 0 R": {
+        "value": {
+          "/K": 3,
+          "/P": "36 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:58 0 R": {
+        "value": {
+          "/K": 4,
+          "/P": "37 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:59 0 R": {
+        "value": {
+          "/K": 5,
+          "/P": "37 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:60 0 R": {
+        "value": {
+          "/K": 6,
+          "/P": "38 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:61 0 R": {
+        "value": {
+          "/K": 7,
+          "/P": "38 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:62 0 R": {
+        "value": {
+          "/K": 8,
+          "/P": "39 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:63 0 R": {
+        "value": {
+          "/K": 9,
+          "/P": "39 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:64 0 R": {
+        "value": {
+          "/K": 10,
+          "/P": "40 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:65 0 R": {
+        "value": {
+          "/K": 11,
+          "/P": "40 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:66 0 R": {
+        "value": {
+          "/K": 12,
+          "/P": "41 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:67 0 R": {
+        "value": {
+          "/K": [
+            "92 0 R"
+          ],
+          "/P": "41 0 R",
+          "/S": "/Div",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:68 0 R": {
+        "value": {
+          "/K": 14,
+          "/P": "41 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:69 0 R": {
+        "value": {
+          "/K": 15,
+          "/P": "42 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:70 0 R": {
+        "value": {
+          "/K": 16,
+          "/P": "42 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:71 0 R": {
+        "value": {
+          "/K": 17,
+          "/P": "42 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:72 0 R": {
+        "value": {
+          "/K": 18,
+          "/P": "43 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:73 0 R": {
+        "value": {
+          "/K": 19,
+          "/P": "43 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:74 0 R": {
+        "value": {
+          "/K": 20,
+          "/P": "44 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:75 0 R": {
+        "value": {
+          "/K": [
+            "93 0 R",
+            "94 0 R",
+            "95 0 R"
+          ],
+          "/P": "45 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:76 0 R": {
+        "value": {
+          "/K": [
+            "96 0 R",
+            "97 0 R",
+            "98 0 R"
+          ],
+          "/P": "45 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:77 0 R": {
+        "value": {
+          "/K": [
+            "99 0 R",
+            "100 0 R",
+            "101 0 R"
+          ],
+          "/P": "45 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:78 0 R": {
+        "value": {
+          "/K": [
+            "102 0 R",
+            "103 0 R",
+            "104 0 R"
+          ],
+          "/P": "45 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:79 0 R": {
+        "value": {
+          "/K": [
+            "105 0 R",
+            "106 0 R",
+            "107 0 R"
+          ],
+          "/P": "45 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:80 0 R": {
+        "value": {
+          "/K": [
+            "108 0 R",
+            "109 0 R",
+            "110 0 R"
+          ],
+          "/P": "45 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:81 0 R": {
+        "value": {
+          "/K": [
+            "111 0 R",
+            "112 0 R",
+            "113 0 R"
+          ],
+          "/P": "45 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:82 0 R": {
+        "value": {
+          "/K": [
+            "114 0 R",
+            "115 0 R",
+            "116 0 R"
+          ],
+          "/P": "45 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:83 0 R": {
+        "value": {
+          "/K": 21,
+          "/P": "46 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:84 0 R": {
+        "value": {
+          "/K": [
+            "117 0 R"
+          ],
+          "/P": "47 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:85 0 R": {
+        "value": {
+          "/K": [
+            "118 0 R"
+          ],
+          "/P": "47 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:86 0 R": {
+        "value": {
+          "/K": [
+            "119 0 R"
+          ],
+          "/P": "47 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:87 0 R": {
+        "value": {
+          "/K": [
+            "120 0 R"
+          ],
+          "/P": "47 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:88 0 R": {
+        "value": {
+          "/K": [
+            "121 0 R"
+          ],
+          "/P": "47 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:89 0 R": {
+        "value": {
+          "/K": [
+            "122 0 R"
+          ],
+          "/P": "47 0 R",
+          "/S": "/LI",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:90 0 R": {
+        "value": {
+          "/K": 22,
+          "/P": "48 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:91 0 R": {
+        "value": {
+          "/K": 23,
+          "/P": "49 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:92 0 R": {
+        "value": {
+          "/K": 13,
+          "/P": "67 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:93 0 R": {
+        "value": {
+          "/K": 25,
+          "/P": "75 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:94 0 R": {
+        "value": {
+          "/K": 26,
+          "/P": "75 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:95 0 R": {
+        "value": {
+          "/K": 27,
+          "/P": "75 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:96 0 R": {
+        "value": {
+          "/K": 28,
+          "/P": "76 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:97 0 R": {
+        "value": {
+          "/K": 29,
+          "/P": "76 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:98 0 R": {
+        "value": {
+          "/K": 30,
+          "/P": "76 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:99 0 R": {
+        "value": {
+          "/K": 32,
+          "/P": "77 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:100 0 R": {
+        "value": {
+          "/K": 33,
+          "/P": "77 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:101 0 R": {
+        "value": {
+          "/K": 34,
+          "/P": "77 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:102 0 R": {
+        "value": {
+          "/K": 35,
+          "/P": "78 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:103 0 R": {
+        "value": {
+          "/K": 36,
+          "/P": "78 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:104 0 R": {
+        "value": {
+          "/K": 37,
+          "/P": "78 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:105 0 R": {
+        "value": {
+          "/K": 38,
+          "/P": "79 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:106 0 R": {
+        "value": {
+          "/K": 39,
+          "/P": "79 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:107 0 R": {
+        "value": {
+          "/K": 40,
+          "/P": "79 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:108 0 R": {
+        "value": {
+          "/K": 42,
+          "/P": "80 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:109 0 R": {
+        "value": {
+          "/K": 43,
+          "/P": "80 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:110 0 R": {
+        "value": {
+          "/K": 44,
+          "/P": "80 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:111 0 R": {
+        "value": {
+          "/K": 45,
+          "/P": "81 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:112 0 R": {
+        "value": {
+          "/K": 46,
+          "/P": "81 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:113 0 R": {
+        "value": {
+          "/K": 47,
+          "/P": "81 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:114 0 R": {
+        "value": {
+          "/K": 48,
+          "/P": "82 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:115 0 R": {
+        "value": {
+          "/K": 49,
+          "/P": "82 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:116 0 R": {
+        "value": {
+          "/K": 50,
+          "/P": "82 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:117 0 R": {
+        "value": {
+          "/K": 52,
+          "/P": "84 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:118 0 R": {
+        "value": {
+          "/K": 53,
+          "/P": "85 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:119 0 R": {
+        "value": {
+          "/K": 54,
+          "/P": "86 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:120 0 R": {
+        "value": {
+          "/K": 55,
+          "/P": "87 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:121 0 R": {
+        "value": {
+          "/K": 56,
+          "/P": "88 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "obj:122 0 R": {
+        "value": {
+          "/K": 57,
+          "/P": "89 0 R",
+          "/Pg": "5 0 R",
+          "/S": "/NonStruct",
+          "/Type": "/StructElem"
+        }
+      },
+      "trailer": {
+        "value": {
+          "/ID": [
+            "b:d04d0422bd59897d99ae51849d4933a5",
+            "b:6b2630bbd6faa8e555fdce870e6d6387"
+          ],
+          "/Info": "2 0 R",
+          "/Root": "1 0 R",
+          "/Size": 123
+        }
+      }
+    }
+  ]
+}

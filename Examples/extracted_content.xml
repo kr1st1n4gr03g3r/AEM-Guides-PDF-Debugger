@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="25.03.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="34" left="105" width="169" height="169" src="extracted_output/extracted_content-1_1.jpg"/>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="14" family="AAAAAB+Helvetica" color="#444444"/>
+<text top="412" left="8" width="118" height="14" font="0">Recipe written by: </text>
+</page>
+</pdf2xml>
