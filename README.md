@@ -1,4 +1,4 @@
-# PDF Debugging
+# 🖼️ 🐞 PDF Debugging
 
 This is a PDF data extraction script based upon [QPDF](https://qpdf.readthedocs.io/en/stable/installation.html#build-instructions), [TIKA CLI](https://tika.apache.org/1.4/gettingstarted.html) to extract various PDF artifacts and content in order to debug DITA-processed print files that are extracted using AEM Guides and DITA-OT.
 
